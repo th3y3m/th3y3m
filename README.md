@@ -11,6 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=shopping-website&theme=dracula)](https://github.com/th3y3m/shopping-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=xunit-with-moq-and-ci&theme=dracula)](https://github.com/th3y3m/xunit-with-moq-and-ci)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=product-management-using-signalr-and-entity-framework&theme=dracula)](https://github.com/th3y3m/product-management-using-signalr-and-entity-framework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=math-util&theme=dracula)](https://github.com/th3y3m/math-util)
 
 [![Awards](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=awards&theme=dracula)](https://github.com/th3y3m/awards)
 
