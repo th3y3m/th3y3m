@@ -4,7 +4,6 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=th3y3m&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=th3y3m&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=th3y3m&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📂 GitHub Repositories
 [![Court Callers](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=court-callers&theme=dracula)](https://github.com/th3y3m/court-callers)
