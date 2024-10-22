@@ -11,6 +11,7 @@
 [![Pizza Store](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=shopping-website&theme=dracula)](https://github.com/th3y3m/shopping-website)
 [![Badminton Bazaar](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=badminton-bazaar&theme=dracula)](https://github.com/th3y3m/badminton-bazaar)
 [![e-commerce-platform](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=e-commerce-platform&theme=dracula)](https://github.com/th3y3m/e-commerce-platform)
+[![E-commerce Microservices](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=e-commerce-microservices&theme=dracula)](https://github.com/th3y3m/e-commerce-microservices)
 [![Unit Test](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=xunit-with-moq-and-ci&theme=dracula)](https://github.com/th3y3m/xunit-with-moq-and-ci)
 [![SignalR](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=product-management-using-signalr-and-entity-framework&theme=dracula)](https://github.com/th3y3m/product-management-using-signalr-and-entity-framework)
 [![MathUtil](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=math-util&theme=dracula)](https://github.com/th3y3m/math-util)
