@@ -7,6 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=th3y3m&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📂 GitHub Repositories
+[![Edu Trailblaze](https://github-readme-stats.vercel.app/api/pin/?username=Edu-Trailblaze&repo=Edu-Trailblaze-BE&theme=dracula)](https://github.com/Edu-Trailblaze/Edu-Trailblaze-BE)
 [![Court Callers](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=court-callers&theme=dracula)](https://github.com/th3y3m/court-callers)
 [![Pizza Store](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=shopping-website&theme=dracula)](https://github.com/th3y3m/shopping-website)
 [![Badminton Bazaar](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=badminton-bazaar&theme=dracula)](https://github.com/th3y3m/badminton-bazaar)
@@ -14,7 +15,6 @@
 [![E-commerce Microservices](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=e-commerce-microservices&theme=dracula)](https://github.com/th3y3m/e-commerce-microservices)
 [![Unit Test](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=xunit-with-moq-and-ci&theme=dracula)](https://github.com/th3y3m/xunit-with-moq-and-ci)
 [![SignalR](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=product-management-using-signalr-and-entity-framework&theme=dracula)](https://github.com/th3y3m/product-management-using-signalr-and-entity-framework)
-[![MathUtil](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=math-util&theme=dracula)](https://github.com/th3y3m/math-util)
 
 [![Awards](https://github-readme-stats.vercel.app/api/pin/?username=th3y3m&repo=awards&theme=dracula)](https://github.com/th3y3m/awards)
 
