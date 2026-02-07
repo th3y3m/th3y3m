@@ -19,11 +19,9 @@
 [![Badminton Bazaar](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=th3y3m&repo=badminton-bazaar&theme=dracula)](https://github.com/th3y3m/badminton-bazaar)
 [![e-commerce-platform](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=th3y3m&repo=e-commerce-platform&theme=dracula)](https://github.com/th3y3m/e-commerce-platform)
 [![E-commerce Microservices](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=th3y3m&repo=e-commerce-microservices&theme=dracula)](https://github.com/th3y3m/e-commerce-microservices)
-[![Unit Test](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=th3y3m&repo=xunit-with-moq-and-ci&theme=dracula)](https://github.com/th3y3m/xunit-with-moq-and-ci)
-[![gRPC MultiServer Playground](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=th3y3m&repo=grpc-multi-server-demo&theme=dracula)](https://github.com/th3y3m/grpc-multi-server-demo)
-[![Awards](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=th3y3m&repo=awards&theme=dracula)](https://github.com/th3y3m/awards)
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 Achievements & Awards
+[![Awards](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=th3y3m&repo=awards&theme=dracula)](https://github.com/th3y3m/awards)
 ![](https://github-trophies.vercel.app/?username=th3y3m&theme=radical&no-frame=false&no-bg=false&margin-w=4)
