@@ -11,6 +11,8 @@
 ---
 
 # 📂 GitHub Repositories
+[![STEMify Backend](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Capstone-STEMify&repo=STEMify-Backend&theme=dracula)](https://github.com/Capstone-STEMify/STEMify-Backend)
+[![STEMify Frontend](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Capstone-STEMify&repo=STEMify-Frontend&theme=dracula)](https://github.com/Capstone-STEMify/STEMify-Frontend)
 [![Edu Trailblaze](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edu-Trailblaze&repo=Edu-Trailblaze-BE&theme=dracula)](https://github.com/Edu-Trailblaze/Edu-Trailblaze-BE)
 [![Court Callers](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=th3y3m&repo=court-callers&theme=dracula)](https://github.com/th3y3m/court-callers)
 [![Pizza Store](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=th3y3m&repo=shopping-website&theme=dracula)](https://github.com/th3y3m/shopping-website)
