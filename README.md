@@ -23,5 +23,5 @@
 ---
 
 # 🏆 Achievements & Awards
-[![Awards](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=th3y3m&repo=awards&theme=dracula)](https://github.com/th3y3m/awards)
+[![Awards](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=th3y3m&repo=awards&theme=tokyonight)](https://github.com/th3y3m/awards)
 ![](https://github-trophies.vercel.app/?username=th3y3m&theme=radical&no-frame=false&no-bg=false&margin-w=4)
